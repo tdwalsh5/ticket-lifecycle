@@ -31,7 +31,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="ticket-lifestyle-shot2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Karen a costumer of ours, is opening a new ticket in the Ticketing system. She files it under one of the help topics we created "Report a problem / Business Criticial Outage." The issue reported is that the entire online banking system is down.
+  Karen, a customer of ours, is opening a new ticket in the ticketing system.<br><br>
+
+  She files the ticket under one of the help topics we previously created:  
+  <strong>"Report a Problem / Business-Critical Outage"</strong>.<br><br>
+
+  The issue reported is that the entire online banking system is currently down.
 </p>
 <br />
 
@@ -42,7 +47,13 @@ Karen a costumer of ours, is opening a new ticket in the Ticketing system. She f
 <img src="ticket-lifestyle-shot3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First we will log in as John who is the Queue manager. Queue managers will priority tickets to the appropriate departments and ensure correct SLAs are applied. Next as the agent, we now log in as Jane who we gave a "Supreme Admin" role, we can view live tickets in the Agent Panel. 
+  First, we will log in as <strong>John</strong>, who serves as the <strong>Queue Manager</strong>.<br><br>
+
+  Queue Managers are responsible for prioritizing tickets, assigning them to the appropriate departments, and ensuring the correct SLAs are applied.<br><br>
+
+  Next, we log in as <strong>Jane</strong>, the agent we assigned the <strong>"Supreme Admin"</strong> role.<br><br>
+
+  As Jane, we can view and manage live tickets directly within the <strong>Agent Panel</strong>.
 </p>
 <br />
 
@@ -50,7 +61,9 @@ First we will log in as John who is the Queue manager. Queue managers will prior
 <img src="ticket-lifestyle-shot4.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The proper SLA, priority level, and assignment of the ticket has taken place. The communication between the customer and the agent has begun, and the agent is now working on resolving the issue.
+  The appropriate <strong>SLA</strong>, priority level, and ticket assignment have been applied.<br><br>
+
+  Communication between the customer and the agent has begun, and the agent is actively working to resolve the issue.
 </p>
 <br />
 
@@ -61,6 +74,8 @@ The proper SLA, priority level, and assignment of the ticket has taken place. Th
 <img src="ticket-lifestyle-shot6.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The issue was determined and the online banking is now back up and running. The status is set to closed, and communication with the customer that the online banking should be back up and running has been made. 
+  The issue was identified and resolved — the online banking system is now fully operational.<br><br>
+
+  The ticket status has been updated to <strong>Closed</strong>, and the customer has been informed that the service is back up and running.
 </p>
 <br />
